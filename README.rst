@@ -17,6 +17,17 @@ Different shapes on flow chart represent different processes.
 - Used some source telling basic enteries and converted to diagramatic representation.
 
 - Source Used to create is Draw.io
+
+
+
+**Steps Considered for this Accounts payable transaction :**
+
+    Goods are sold
+    Delivered with purchase order and other relevant paperwork.
+    Invoiced afterwards
+    If payment received within net period no extra charge Else with additional charge is received.
+    If payment is received money/check deposited in bank , books are updated and e-finance databases are updated;
+     Else if still receivable balance as credit is forwarded to next cycle or if no recovery considered as bad debt expense. 
  
 Info Source: http://www.geekinterview.com/question_details/77552
 
