@@ -1,5 +1,5 @@
 ****************
-FLOW CHART - UML
+FLOW CHART - 
 ****************
  
 **What is Flow Chart**
